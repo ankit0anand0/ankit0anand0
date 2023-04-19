@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ankit Anand
-- 👀 I’m interested in App Development using Flutter.
-- 🌱 I’m currently learning App dev online and doing my masters in physics.
-- My hobbies : App Development, Music Production, Singing, Playing Instruments(Guitar, Keys), Learning programming languages.
+- 👋 Hi, I’m Ankit Anand [M.Sc. Physics]
+- 👀 I’m interested in Audio Signal Processing.
+- 🌱 I’m currently learning audio plugin development, building MIR systems.
+- My hobbies : App Development, Music Production, Singing, Playing Instruments.
 - 📫 How to reach me : ankit0.anand0@gmail.com
 
 <!---
