@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ankit Anand [M.Sc. Physics]
-- 👀 I’m interested in Audio Signal Processing.
-- 🌱 I’m currently learning audio plugin development, building MIR systems.
-- My hobbies : App Development, Music Production, Singing, Playing Instruments.
+- 🌱 My interests : Audio signal processing, Building MIR System, Machine Learning, Music Production, Singing, Playing Instruments.
 - 📫 How to reach me : ankit0.anand0@gmail.com
 
 <!---
