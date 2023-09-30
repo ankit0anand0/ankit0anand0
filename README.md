@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Anand [M.Sc. Physics]
-- 🌱 My interests : Audio signal processing, Building MIR System, Machine Learning, Music Production, Singing, Playing Instruments.
+- 🌱 My interests : AI Music
 - 📫 How to reach me : ankit0.anand0@gmail.com
 
 <!---
