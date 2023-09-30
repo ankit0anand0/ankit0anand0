@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit Anand 
+- 👋 Hi, Welcome to my GIT Repo!
 - ❤️ Physics | AI Music
 - 📫 Contact : ankit0.anand0@gmail.com
 
