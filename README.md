@@ -1,4 +1,4 @@
-- Namaste, I welcome you to my GIT Repo!
+- 🙏 Namaste, I welcome you to my GIT Repo!
 - 📫 Email: ankit0[dot]anand0[at]gmail[dot]com
 
 <!---
